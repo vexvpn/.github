@@ -24,8 +24,8 @@
 
 <p align="center">
   <!-- Social Links -->
-      <a href="https://t.me/vexvpn"><img src="https://img.shields.io/badge/Telegram-Join-blue" alt="Telegram"></a>
-  <a href="https://twitter.com/vexvpn"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
-  <a href="https://www.instagram.com/vexvpn"><img src="https://img.shields.io/badge/Instagram-Follow-pink" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/company/vexvpn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+      <a href="https://t.me/getvexvpn"><img src="https://img.shields.io/badge/Telegram-Join-blue" alt="Telegram"></a>
+  <a href="https://twitter.com/getvexvpn"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
+  <a href="https://www.instagram.com/getvexvpn"><img src="https://img.shields.io/badge/Instagram-Follow-pink" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/company/getvexvpn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
 </p>
